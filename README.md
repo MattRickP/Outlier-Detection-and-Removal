@@ -7,3 +7,6 @@ Therefore, in this work, we will focus on outliers. We will distinguish between 
 Subsequently, we will apply various scaling techniques such as the **StandardScaler, MinMaxScaler and the RobustScaler.** Our model of choice is **linear regression.**  
 
 For this purpose, the **insurance dataset** will serve as the basis for our analysis.
+
+The dataset used in this repository was created by Bob Wakefield and is hosted on Kaggle. 
+https://www.kaggle.com/datasets/thedevastator/prediction-of-insurance-charges-using-age-gender
